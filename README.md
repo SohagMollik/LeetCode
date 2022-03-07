@@ -6,3 +6,4 @@
 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Find Peak Element.cpp](https://github.com/SohagMollik/LeetCode-Online-Judge-Solution/blob/main/Solution/162.%20Find%20Peak%20Element.cpp) |
 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Can Make Arithmetic Progression From Sequence.cpp](https://github.com/SohagMollik/LeetCode-Online-Judge-Solution/blob/main/Solution/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number.cpp](https://github.com/SohagMollik/LeetCode-Online-Judge-Solution/blob/main/Solution/9.%20Palindrome%20Number.cpp) |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Sqrt(x).cpp](https://github.com/SohagMollik/LeetCode-Online-Judge-Solution/blob/main/Solution/69.%20Sqrt(x).cpp) |
