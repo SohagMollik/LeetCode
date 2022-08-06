@@ -8,14 +8,10 @@ public:
         while(i<j){
             int x=min(h[i],h[j])*(j-i);
             ans=max(ans,x);
-            if(h[i]==h[j]){
-                i++;
+            if(h[i]>h[j]){
                 j--;
             }
-            else if(h[i]>h[j]){
-                j--;
-            }
-            else if(h[i]<h[j]){
+            else{
                 i++;
             }
         }
