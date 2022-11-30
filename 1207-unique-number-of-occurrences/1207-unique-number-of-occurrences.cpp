@@ -1,25 +1,23 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        map<int,int>mp;
-        for(int i=0;i<arr.size();++i){
-            mp[arr[i]]++;
+       map<int,int>mp;
+        for(auto &x: arr){
+            mp[x]++;
         }
-        vector<int>v(0);
-        for(auto x: mp){
-            int y=x.second;
-            v.push_back(y);
+            vector<int>ans;
+        for(auto &y: mp){
+            ans.push_back(y.second);
         }
-        sort(v.begin(),v.end());
-        bool ans=true;
-        for(int i=1;i<=v.size()-1;++i){
-            if(v[i-1]==v[i])
-            {
-                ans=false;
-                break;
+        sort(ans.begin(),ans.end());
+            bool ok=true;
+            for(int i=1;i<ans.size();++i){
+                if(ans[i-1]==ans[i]){
+                    ok=false;
+                    break;
+                }
             }
-        }
-        if(ans==false)return 0;
-        else return 1;
+            if(ok==true)return 1;
+            else return 0;
     }
 };
