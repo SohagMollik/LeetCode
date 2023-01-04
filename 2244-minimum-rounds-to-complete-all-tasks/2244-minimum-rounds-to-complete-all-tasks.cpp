@@ -1,32 +1,37 @@
 class Solution {
 public:
-    int minimumRounds(vector<int>& task) {
-        map<int,int>mp;
-        for(int i=0;i<task.size();++i){
-            mp[task[i]]++;
-        }
+    int minimumRounds(vector<int>& v) {
+     map<int,int>mp;
+     int n=v.size();
+    for(int i=0;i<n;++i){
+        mp[v[i]]++;
+    }
         int ans=0;
+        int sum=0;
+        int a,b,c;
         for(auto &x: mp){
-            if(x.second==1){
-                return -1;
+            int y=x.second;
+            if(y==1){
+                ans=1;
                 break;
             }
-            else{
-            
-                int div=x.second/3;
-                int mod=x.second%3;
-                if(mod==0){
-                    ans+=div;
-                }
-                else if(mod==2){
-                    ans+=(div+1);
-                }
-                else{
-                    ans+=((div-1)+2);
-                }
+            if(y%3==0){
+                a=y/3;
+             }
+                b=(y/3)+1;
+                c=(y/3)+2;
 
+            if(y%3!=0){
+            int mn=min({b,c});
+            sum+=mn;
+            }
+            else{
+                int mn=min({a,b,c});
+                sum+=mn;
             }
         }
-        return ans;
+
+        if(ans==1)return -1;
+        else return sum;
     }
 };
