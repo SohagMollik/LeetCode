@@ -34,3 +34,4 @@
 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [989. Add to Array-Form of Integer.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/989.%20Add%20to%20Array-Form%20of%20Integer.cpp) | Easy |
 | [2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [2595. Number of Even and Odd Bits.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/2595.%20Number%20of%20Even%20and%20Odd%20Bits.cpp) | Easy |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [71. Simplify Path.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/71.%20Simplify%20Path.cpp) | Medium |
+| [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) | [946. Validate Stack Sequences.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/946.%20Validate%20Stack%20Sequences.cpp) | Medium |
