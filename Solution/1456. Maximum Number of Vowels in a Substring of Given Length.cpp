@@ -4,7 +4,7 @@ public:
        set<char>st{'a','e','i','o','u'};
        int c=0;
        for(int i=0;i<k;++i){
-           c+=st.count(s[i]);
+           c+=st.count(s[i]); //count vowels first k character
        }
        int i=0,j=k;
       int mx=c;
