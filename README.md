@@ -1,4 +1,4 @@
-# LeetCode-Online-Judge-Solution
+## LeetCode-Online-Judge-Solution
 | Problem | Solution | Category |
 | ------- | -------- | -------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [1. Two Sum.cpp](https://github.com/SohagMollik/LeetCode-Online-Judge-Solution/blob/main/Solution/1.%20Two%20Sum.cpp) | Easy |
@@ -53,3 +53,4 @@
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | [1732. Find the Highest Altitude.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1732.%20Find%20the%20Highest%20Altitude.cpp) | Easy |
 | [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/) | [2090. K Radius Subarray Averages.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/2090.%20K%20Radius%20Subarray%20Averages.cpp) | Medium |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [179. Largest Number.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/179.%20Largest%20Number.cpp) | Medium |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [714. Best Time to Buy and Sell Stock with Transaction Fee.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp) | Medium |
