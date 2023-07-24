@@ -1,59 +1,25 @@
-
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long int temp=abs(n);
-        double y=abs(x);
-        double ans=1;
+        long long m=n;
+        if(m < 0){
+            m=(-1)*m;
+        }
         
-        while(temp>0){
-            if(temp%2!=0){
-                ans*=y;
-                --temp;
+        double ans=1.00000;
+        while(m>0){
+            if(m%2==1){
+                ans*=x;
+                m--;
             }
             else{
-                y*=y;
-                temp/=2;
+                x*=x;
+                m/=2;
             }
         }
-       
+        if(n<0) ans=(1.00000/ans);
         
-     if(n>0 and x>0){
-         ans=ans;
-     }
-        
-     else if(x>0 and n<0){
-            ans = (1.00000/ans);  
-        }
-        
-    else if(x<0 and n>0){
-            if(n%2==0){
-                ans=ans;  
-            }
-    
-        
-            else {
-                ans=((-1.00000)*ans);
-               
-            }
-        }
-        
-        
-        else if(x<0 and n<0){
-            if(abs(n)%2==0){
-                ans = (1.00000/ans);
-               
-            }
-            else {
-               ans=(-1.00000)*(1.00000/ans);
-               
-            } 
-        }
-        
-         
-        if(n==1)return x;
-        else if(x==1.00000)return (abs(n)%2!=0 && n<0)? -1.00000:1.00000;
-        else if(x==0)return 0.00000;
-        else return ans;
+        return ans;
+            
     }
 };
