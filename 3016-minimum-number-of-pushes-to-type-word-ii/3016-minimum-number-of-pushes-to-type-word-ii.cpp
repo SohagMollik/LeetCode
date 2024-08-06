@@ -1,58 +1,38 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n=word.size();
-        int ans=0;
+       
         map<char,int>fre;
         
-        for(int i=0;i<n;++i){
-            fre[word[i]]++;
-        }
-        vector<int>v;
-        
-        for(auto x: fre){
-            int y=x.second;
-            v.push_back(y);
+        for(auto it: word){
+            fre[it]++;
         }
         
-         if(v.size()<=8){
-          for(int i=0;i<v.size();++i){
-          ans+=v[i];
-        }
-      }
+        vector<int>res;
         
-      else{
-          
-        sort(v.begin(),v.end(),greater<int>());
-        
-        int div=v.size() / 8;
-        int mod=v.size() % 8;
-        
-        vector<int>vec;
-        for(int i=0;i<div;++i){
-            int sum=0;
-            for(int j=(i*8);j<(i+1)*8;++j){
-                sum+=v[j];
-            }
-            vec.push_back(sum);
+        for(auto it: fre){
+            int s=it.second;
+            res.push_back(s);
         }
         
-        for(int i=0;i<div;++i){
-            ans+=((i+1)*vec[i]);
+        sort(res.begin(), res.end(), greater<int>());
+        
+        int div=res.size()/8;
+        int mod=res.size()%8;
+        int k=1, ans=0, last=res.size()-1;
+        
+        for(int i=0; i<div; i++){
+           for(int j=(i*8); j<(i+1)*8; j++){
+              ans+=(res[j]*k); 
+           } 
+            ++k;
         }
         
-        if(v.size()>8){
-        int z=v.size()-1;
-        for(int i=0;i<mod;++i){
-            ans+=((div+1)*v[z]);
-            z-=1;
+        while(mod--){
+            ans+=(res[last]*(div+1));
+            last--;
         }
-       }
-         
-     }
-        
         
         return ans;
-         
     }
 };
