@@ -15,7 +15,7 @@ public:
         
         for(int i=0; i<expression.size(); i++){
             
-            //lob push
+            //numerator push
             if(expression[i]=='/'){
                 if(expression[i-1]=='0'){
                     lob.push_back(10);
@@ -27,7 +27,7 @@ public:
                 }
             }
             
-            //hor push
+            //denominator push
             if(expression[i]=='/'){
                 if(i+2<expression.size()){
                     if((expression[i+2]!='+' or expression[i+2]!='-') && (expression[i+2]=='0')){
@@ -69,7 +69,6 @@ public:
             else y+=(lob[i]*x);
         }
         
-        //cout<<y<<endl;
         
             int z = abs(y);
             int new_gcd = __gcd(z,lcm);
