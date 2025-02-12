@@ -62,3 +62,4 @@
 | [1800](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04) | [1800.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1800.cpp) | Easy |
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05) | [1790.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1790.cpp) | Easy |
 | [1726](https://leetcode.com/problems/tuple-with-same-product/?envType=daily-question&envId=2025-02-06) |[1726.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1726.cpp) | Medium |
+| [2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/?envType=daily-question&envId=2025-02-12) | [2342.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/2342.cpp) | Medium |
