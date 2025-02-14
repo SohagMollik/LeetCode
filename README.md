@@ -63,3 +63,4 @@
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05) | [1790.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1790.cpp) | Easy |
 | [1726](https://leetcode.com/problems/tuple-with-same-product/?envType=daily-question&envId=2025-02-06) |[1726.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1726.cpp) | Medium |
 | [2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/?envType=daily-question&envId=2025-02-12) | [2342.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/2342.cpp) | Medium |
+| [1352](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) | [1352.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1352.cpp) | Medium |
