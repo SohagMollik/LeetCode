@@ -32,7 +32,7 @@ public:
          else {
             int index2= -1;
             for(int i=1; i<st.size(); i++){
-                if(st[i]!='1'){
+                if(st[i]!='1' and st[i]!='0'){
                     index2 = i;
                     break;
                 }
