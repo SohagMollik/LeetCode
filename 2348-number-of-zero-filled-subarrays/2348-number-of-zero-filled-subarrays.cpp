@@ -4,24 +4,15 @@ public:
          
         long long int count=0, sum=0;
 
-        for(int i=0; i<nums.size(); ){
-            if(i<nums.size() && nums[i]==0){
-                while(i<nums.size() && nums[i]==0 ){
-                    count++;
-                    i++;
-                }
+        for(auto num: nums){
+            if(num==0){
+                count++;
+                sum+=count;
             }
-
             else{
-                if(count>0){
-                sum+=(count*(count+1))/2;
                 count=0;
-                }
-                i++;
             }
         }
-
-        if(count>0)sum+=(count*(count+1))/2;
 
         return sum;
     }
