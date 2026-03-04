@@ -64,3 +64,15 @@
 | [1726](https://leetcode.com/problems/tuple-with-same-product/?envType=daily-question&envId=2025-02-06) |[1726.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1726.cpp) | Medium |
 | [2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/?envType=daily-question&envId=2025-02-12) | [2342.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/2342.cpp) | Medium |
 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) | [1352.cpp](https://github.com/SohagMollik/LeetCode/blob/main/Solution/1352.cpp) | Medium |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+<!---LeetCode Topics End-->
