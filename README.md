@@ -81,8 +81,13 @@
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SohagMollik/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohagMollik/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/SohagMollik/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SohagMollik/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/SohagMollik/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
