@@ -73,6 +73,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SohagMollik/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,8 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SohagMollik/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/SohagMollik/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
