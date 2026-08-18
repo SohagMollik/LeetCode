@@ -74,6 +74,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SohagMollik/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohagMollik/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SohagMollik/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohagMollik/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -121,6 +122,7 @@
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohagMollik/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SohagMollik/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SohagMollik/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
