@@ -94,6 +94,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohagMollik/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/SohagMollik/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SohagMollik/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/SohagMollik/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/SohagMollik/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
