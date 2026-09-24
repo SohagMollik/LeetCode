@@ -78,6 +78,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SohagMollik/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohagMollik/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SohagMollik/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SohagMollik/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohagMollik/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SohagMollik/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -112,6 +113,7 @@
 | [0836-rectangle-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SohagMollik/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SohagMollik/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SohagMollik/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SohagMollik/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SohagMollik/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
