@@ -73,6 +73,7 @@
 | [0835-image-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SohagMollik/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SohagMollik/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SohagMollik/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohagMollik/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/SohagMollik/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SohagMollik/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -137,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohagMollik/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SohagMollik/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SohagMollik/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
