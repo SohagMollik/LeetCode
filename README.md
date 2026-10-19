@@ -76,6 +76,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SohagMollik/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SohagMollik/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SohagMollik/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SohagMollik/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SohagMollik/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SohagMollik/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SohagMollik/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Simulation
@@ -180,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SohagMollik/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
