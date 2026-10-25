@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## String
@@ -205,4 +207,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SohagMollik/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
