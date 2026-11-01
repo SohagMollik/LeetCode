@@ -70,6 +70,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SohagMollik/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0835-image-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -121,6 +122,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SohagMollik/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SohagMollik/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
