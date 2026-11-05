@@ -74,6 +74,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SohagMollik/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/SohagMollik/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SohagMollik/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SohagMollik/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SohagMollik/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SohagMollik/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SohagMollik/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SohagMollik/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SohagMollik/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SohagMollik/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -190,6 +192,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SohagMollik/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SohagMollik/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SohagMollik/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
@@ -226,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SohagMollik/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SohagMollik/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
