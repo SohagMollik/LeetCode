@@ -88,6 +88,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohagMollik/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SohagMollik/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SohagMollik/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/SohagMollik/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohagMollik/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SohagMollik/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/SohagMollik/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -239,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SohagMollik/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3693-climbing-stairs-ii](https://github.com/SohagMollik/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 <!---LeetCode Topics End-->
